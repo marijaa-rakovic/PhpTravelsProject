@@ -58,4 +58,3 @@ use excel table to login admin.
 
 ![](https://i.imgur.com/vJsfgnw.png)
 
-Project created in collaboration with [Braca QA](https://github.com/BracaQA "Braca QA")
